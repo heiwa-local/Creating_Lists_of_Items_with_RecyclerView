@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPI_Practice9</string>
+    <string name="textViewNameField">Name:</string>
+    <string name="textViewPhoneField">Phone:</string>
+    <string name="Btn_Name">Name</string>
+    <string name="Btn_Phone">Phone</string>
+    <string name="Btn_Sex">Sex</string>
+</resources>
